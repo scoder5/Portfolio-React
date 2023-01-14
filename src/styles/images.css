@@ -1,0 +1,46 @@
+.Photo{
+    background-image: url(../../src/assets/me.jpeg);
+}
+
+.project1{
+    background-image: url(../../src/assets/JARVIS.png);
+    cursor: none;    
+}
+
+.project2{
+    background-image: url(../../src/assets/CollabMusic.IO.png);
+    cursor: none;
+}
+
+.project3{
+    background-image: url(../../src/assets/sbin.png);
+    cursor: none;
+}
+
+.project4{
+    background-image: url(../../src/assets/PORTFOLIO.png);
+    cursor: none;
+}
+
+.project5{
+    background-image: url(../../src/assets/Y-TUBERS.png);
+    cursor: none;
+}
+
+.project6{
+    background-image: url(../../src/assets/NotesApp.png);
+    cursor: none;
+}
+
+.misc1{
+    background-image: url(../../src/assets/per.jpeg);
+    cursor: none;
+}
+.misc2{
+    background-image: url(../../src/assets/per1.jpeg);
+    cursor: none;
+}
+.misc3{
+    background-image: url(../../src/assets/veena.jpg);
+    cursor: none;
+}
