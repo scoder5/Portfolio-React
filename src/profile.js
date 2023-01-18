@@ -67,7 +67,7 @@ const projects = [
     id: "project2",
     name: "CollabMusic.IO",
     skills: ["Django, Django-REST-API, ReactJS"],
-    url: "https://github.com/scoder5/Collaborative-Music-Playing-System",
+    url: "https://github.com/scoder5/CollabMusic.IO",
   },
   {
     id: "project3",
