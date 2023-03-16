@@ -85,7 +85,7 @@ const projects = [
     id: "project5",
     name: "Django-Ytubers",
     skills: ["Django, HTML, CSS, JS, PostgreSQL"],
-    url: "https://github.com/scoder5/Django-Ytubers",
+    url: "https://github.com/scoder5/DJYTubers",
   },
   {
     id: "project6",
