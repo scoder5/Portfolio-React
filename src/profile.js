@@ -123,10 +123,8 @@ const contact = {
 
 const social = {
   github: "https://github.com/scoder5",
-  twitter: "https://twitter.com/surya13r",
-  instagram: "https://instagram.com/raghavendrasuryat.r",
   linkedin: "https://linkedin.com/in/raghavendrasurya",
-  resume: 'https://suryaraghavendr2.hackerresume.io/49eb155a-88b0-4bd8-955e-984f93c6fcba',
+  resume: 'https://drive.google.com/file/d/11qUB4NQbWQ-D7RRW72xEhuYC0lDNmCnb/view?usp=sharing',
 };
 
 export {
